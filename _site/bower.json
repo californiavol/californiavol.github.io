@@ -1,9 +1,0 @@
-{
-  "name": "CaliforniaVol Github Page",
-  "version": "1.0.0",
-  "main": "app/index.html",
-  "dependencies": {
-    "bootstrap": "~3.3.0"
-  },
-  "appPath": "app"
-}
