@@ -1,8 +1,8 @@
 ---
 title: Hello Github Pages
 layout: post
-tags: github setup tutorial liquid templates
-categories: Development
+tags: [github setup tutorial liquid templates]
+category: Development
 ---
 
             <p>This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>

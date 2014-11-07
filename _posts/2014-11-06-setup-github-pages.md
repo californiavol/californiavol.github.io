@@ -1,7 +1,7 @@
 ---
 title: Setup Github Pages
 layout: post
-tags: github setup tutorial liquid templates
-categories: Development
+tags: [github-pages setup tutorial liquid-templates]
+category: Development
 ---
 <p>Setup</p>
