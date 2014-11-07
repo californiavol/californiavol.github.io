@@ -1,0 +1,32 @@
+google_analytics_id: UA-56313401-1
+
+# For Atom Feed
+domain: californiavol.github.io
+author: Charles Brown-Roberts
+email: 
+title: CaliforniaVol GitHub Page
+
+# standard jekyll configuration
+
+permalink: /articles/:title
+pygments: true
+exclude:
+- bin
+- config.rb
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- script
+- vendor
+
+markdown: rdiscount
+
+github:
+  username: github/californiavol.github.com
+  
+# jekyll custom config changes
+
+source: ./app/
