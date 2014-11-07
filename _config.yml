@@ -8,6 +8,14 @@ title: CaliforniaVol GitHub Page
 
 # standard jekyll configuration
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
 permalink: /articles/:title
 pygments: true
 exclude:
