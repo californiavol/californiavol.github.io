@@ -1,8 +1,7 @@
 ---
 title: Setup Github Pages
+layout: post
+tags: github setup tutorial liquid templates
+categories: Development
 ---
-
-<article>
-<h1>Setup Github Pages</h1>
-
-</article>
+<p>Setup</p>
