@@ -16,7 +16,7 @@ defaults:
     values:
       layout: "default"
 
-permalink: /articles/:title
+permalink: /:title
 pygments: true
 exclude:
 - bin
