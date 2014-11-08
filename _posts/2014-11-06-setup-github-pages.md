@@ -6,7 +6,7 @@ category: Development
 ---
 <p>Setup</p>
 
-<code>
+{% highlight ruby %}
 module Jekyll
  
   class TagIndex < Page    
@@ -44,4 +44,4 @@ module Jekyll
   end
  
 end
-</code>
+{% endhighlight %}
