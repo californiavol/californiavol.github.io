@@ -1,7 +1,7 @@
 ---
 title: Hello Github Pages
 layout: post
-tags: [github setup tutorial liquid templates]
+tags: github setup tutorial liquid templates
 category: Development
 ---
 
