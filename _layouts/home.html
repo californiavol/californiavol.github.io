@@ -2,7 +2,12 @@
 <html lang="en">
 {% include head.html %}
 <body>
-<h1>Hello</h1>
+<div id="main-nav" role="navigation">
+    {% include nav %}
+</div>
+
+
+{{ content }}
 
 {% include scripts.html  %}
 </body>
