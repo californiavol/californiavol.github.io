@@ -36,3 +36,5 @@ github:
   username: github/californiavol.github.com
   
 # jekyll custom config changes
+
+theme: new-age
