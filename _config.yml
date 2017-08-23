@@ -30,7 +30,6 @@ exclude:
 - script
 - vendor
 
-markdown: rdiscount
 
 github:
   username: github/californiavol.github.com
